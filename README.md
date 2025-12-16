@@ -84,9 +84,6 @@ npm start
 5. **View Order** – View summary of all order on Order page
 6. **Admin Access** – Use admin credentials to access the management dashboard
 
-**Admin Login Credentials:**  
-Email: `admin@gmail.com`  
-Password: `123456`
 
 **Test Payment Details:**  
 Card Number: `4242 4242 4242 4242`  
