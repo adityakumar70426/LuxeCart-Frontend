@@ -77,7 +77,7 @@ CVV: *Any 3-digit number*
 ---
 
 ## Repositories
-- **Frontend:** [LuxeCart Frontend](https://github.com/Jitesh7891/chiccart)
-- **Backend:** [LuxeCart Backend](https://github.com/Jitesh7891/LuxeCart-backend)
+- **Frontend:** [LuxeCart Frontend](https://github.com/adityakumar70426/LuxeCart-Frontend)
+- **Backend:** [LuxeCart Backend](https://github.com/adityakumar70426/LuxeCart-Backend)
 
 Feel free to clone and explore both repositories to see modern e-commerce capabilities in action.
