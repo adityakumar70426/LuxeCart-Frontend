@@ -1,5 +1,5 @@
 # LuxeCart
-*Your chic shopping destination for modern e-commerce.*
+*Your shopping destination for modern e-commerce.*
 
 ---
 
@@ -9,7 +9,7 @@ LuxeCart is a full-stack e-commerce platform that delivers a complete online sho
 ---
 
 ## Demo
-[Live Demo](https://chiccart.onrender.com/)
+[Live Demo](https://luxecart-frontend.onrender.com)
 
 ---
 
@@ -28,23 +28,7 @@ LuxeCart is a full-stack e-commerce platform that delivers a complete online sho
 
 ---
 
-## Installation
 
-### Frontend Setup
-```bash
-git clone https://github.com/Jitesh7891/LuxeCart.git
-cd LuxeCart
-npm install
-npm run dev
-```
-
-### Backend Setup
-```bash
-git clone https://github.com/Jitesh7891/LuxeCart-backend.git
-cd LuxeCart-backend
-npm install
-npm start
-```
 
 **Note:** Both frontend and backend need to be running simultaneously for full functionality.  
 **Note:** Make a .env file in backend and add your stripe secret key like this STRIPE_SECRET_KEY=YOUR_KEY_HERE
